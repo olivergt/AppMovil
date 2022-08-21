@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMovil", "AppMovil.csproj", "{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1DE826-A912-4EA0-B64A-EE0FE22EBDDC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48A8812-889D-41EB-89C7-8BCCE676DAD5}
+	EndGlobalSection
+EndGlobal
