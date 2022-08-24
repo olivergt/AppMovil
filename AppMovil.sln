@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMovil", "AppMovil.csproj", "{C6C99228-1DC9-4A63-9C52-54C2520CA90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C99228-1DC9-4A63-9C52-54C2520CA90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C99228-1DC9-4A63-9C52-54C2520CA90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C99228-1DC9-4A63-9C52-54C2520CA90E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C6C99228-1DC9-4A63-9C52-54C2520CA90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C99228-1DC9-4A63-9C52-54C2520CA90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C99228-1DC9-4A63-9C52-54C2520CA90E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C992AB0-B684-4501-890D-DCD56312FFCD}
+	EndGlobalSection
+EndGlobal
